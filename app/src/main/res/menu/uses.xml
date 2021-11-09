@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <item
+            android:id="@+id/pat"
+            android:title="Patient"/>
+        <item
+            android:id="@+id/pat_reg"
+            android:title="Patient Registration" />
+        <item
+            android:id="@+id/graph"
+            android:title="Graph" />
+
+</menu>
